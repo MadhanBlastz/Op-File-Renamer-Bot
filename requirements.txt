@@ -3,7 +3,7 @@ Pillow
 humanize
 hachoir
 motor
-pyrogram==2.0.35
+git+https://github.com/SudoR2spr/WD-Pyrogram
 TgCrypto
 dnspython
 
